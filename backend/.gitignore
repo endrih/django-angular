@@ -1,0 +1,4 @@
+djangular_project/static/angular
+db.sqlite3
+.venv
+__pycache__
